@@ -10,13 +10,6 @@ Borics Gábor<sup>1</sup>, Verona Lerf<sup>1,2</sup>, János Falucskai<sup>3</su
 4. Josip Juraj Strossmayer Water Institute, Ulica grada Vukovara 220, HR-10000 Zagreb, Croatia  
 5. University of Helsinki, Lammi Biological Station, Pääjärventie 320, 16900 Lammi, Finland  
 
-## Highlights
-- The application of Coachy’s formula for concave forms highly overestimates their projected areas (Ā).
-- Using a numerical approach and computer simulation, Ā can be accurately calculated for all microalgae.
-- Models describing morphological metric-projected area relationships provide only rough estimates for Ā.
-- Morphology can cause up to a sixfold variation in Ā for the same volume.
-- Filamentous forms and loosely packed colonies are the most efficient adaptations to maximize Ā.
-
 ## Abstract
 Projected (shaded) area (Ā) is a crucial morphological trait of microalgae, influencing light acquisition and sinking properties. However, species-specific Ā values are currently unavailable. Although Ā can be analytically calculated for convex shapes using surface area data, such data are missing from microalgae databases. Additionally, no established method exists for calculating the projected area of concave shapes.
 
