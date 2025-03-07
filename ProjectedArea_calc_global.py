@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 23 10:02:06 2024
 
-@author: VGabor
+@author: Gabor Varbiro
 """
 import bpy
 import os
@@ -14,19 +14,19 @@ y = 0.0
 z = 0.0
 
 # Set the rotation increment
-rotation_increment_f = 2  # degrees
-rotation_increment = 2  # degrees
+rotation_increment_f = 2  # degrees of tilt angle 
+rotation_increment = 2  # degrees of rotataion angle
 # Set the number of rotations (360 degrees)
 num_rotations = int(180 / rotation_increment)
 num_rotations_fall = int(90/rotation_increment_f)
 
 # specify the directory where the obj files are located
-dir_path = "G:/Blender_3D/Chlorophyceae"
+dir_path = "Sample/Objects"
 
 # get list of all files in directory
 file_list = os.listdir(dir_path)
 # Set render output directory
-render_output_directory = bpy.path.abspath("G:/Blender_3D/Chlorophyceae/render_output_SOK8")
+render_output_directory = bpy.path.abspath("Sample/Render_output")
 # get list of obj files
 obj_list = [item for item in file_list if item.endswith('.obj')]
 
@@ -168,8 +168,8 @@ for item in obj_list:
     #bpy.context.scene.render.image_settings.color_mode = 'BW'
     
     # Initialize rotation angles
-    foki = 0
-    fokj = 0
+    foki = 0 # Rotation
+    fokj = 0 # Tilt
 
 
     for j in range(num_rotations_fall+1):
