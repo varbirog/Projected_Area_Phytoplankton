@@ -34,10 +34,10 @@ DOI : XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 - **`ESM/`** - Contains the electronic supplementary materials
    - `ESM_Projected area.pptx` - ESM figure ppt file with animation
-   - 'ESM_Table_1_fin.xlsx' - ESM Table 1
+   - `ESM_Table_1_fin.xlsx` - ESM Table 1
 - **`Sample/`** -
    - `Ceratium_furcoides.obj` - Ceratium furcoides Blender object
-   ***'Rendered_files/*** - Contains the rendered images
+   - **'Rendered_files/** - Contains the rendered images
      - `Ceratium_furcoides_render_00_000.jpg`  - Ceratium_furcoides _ tilt angle = 0 rotation_angle = 000
      - `Ceratium_furcoides_render_XX_XXX.jpg
      - `Ceratium_furcoides_render_90_180.jpg`  - Ceratium_furcoides _ tilt angle = 90 rotation_angle = 180
