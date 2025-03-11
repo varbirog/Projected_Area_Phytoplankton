@@ -4,6 +4,8 @@ Created on Fri Feb 23 10:02:06 2024
 
 @author: Gabor Varbiro
 """
+# Run under VSCode with the command line: blender --background --python G:/Blender_3D/Code/ProjectedArea_calc_global.py
+
 import bpy
 import os
 import math
