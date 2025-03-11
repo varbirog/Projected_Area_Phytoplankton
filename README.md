@@ -38,9 +38,9 @@ DOI : XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - **`Sample/`** -
    - `Ceratium_furcoides.obj` - Ceratium furcoides Blender object
    - **'Rendered_files/** - Contains the rendered images
-     - `Ceratium_furcoides_render_00_000.jpg`  - Ceratium_furcoides _ tilt angle = 0 rotation_angle = 000
-     - `Ceratium_furcoides_render_XX_XXX.jpg
-     - `Ceratium_furcoides_render_90_180.jpg`  - Ceratium_furcoides _ tilt angle = 90 rotation_angle = 180
+     - `Ceratium_furcoides_render_00_000.jpg`  - Ceratium_furcoides_ tilt angle = 0 rotation_angle = 000
+     - `Ceratium_furcoides_render_XX_XXX.jpg`  - Ceratium_furcoides_ tilt angle = XX rotation_angle = XXX
+     - `Ceratium_furcoides_render_90_180.jpg`  - Ceratium_furcoides_ tilt angle = 90 rotation_angle = 180
 - **`Scripts/`** - Includes analysis scripts for data processing and visualization.  
   - `ProjectedArea_calc_global.py` - Rendering the Blender objects  
   - `ProjectedArea_calc_pixels_all.py` - Calculating the Projected area of each rendered pictures
