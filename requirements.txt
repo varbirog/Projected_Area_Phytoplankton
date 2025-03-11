@@ -1,0 +1,8 @@
+# Phyton libraries used
+
+pip install PIL
+pip install numpy
+pip install math
+pip install bmesh
+pip install bpy
+pip install mathutils
