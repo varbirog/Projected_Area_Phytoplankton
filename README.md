@@ -32,6 +32,16 @@ DOI : XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## 📁 Directory Structure
 
+- **`data/`** - Contains raw and processed data files.  
+- **`scripts/`** - Includes analysis scripts for data processing and visualization.  
+  - `process_data.py` - Cleans and formats the raw data for analysis.  
+  - `analysis.R` - Performs exploratory data analysis and generates visualizations.  
+  - `shiny_app.R` - Shiny application for interactive data exploration.  
+- **`results/`** - Stores output figures, tables, and reports.  
+  - `figures/` - Contains plots and graphs generated from analysis.
+  - 'ESM/' -   Contains plots and
+  - `tables/` - Stores tabular results in CSV/Excel format.  
+- **`requirements.txt`** - Lists required Python packages for reproducibility.  
 
 
 ## COPYRIGHT
