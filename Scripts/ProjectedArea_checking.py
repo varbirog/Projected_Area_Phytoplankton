@@ -4,6 +4,10 @@ Created on Fri Feb 23 12:22:32 2024
 
 @author: VGabor
 """
+
+# Run under VSCode with the command line: blender --background --python G:/Blender_3D/Code/ProjectedArea_checking.py
+
+
 import bpy
 import os
 import math
