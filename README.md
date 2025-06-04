@@ -25,11 +25,11 @@ Gábor Várbíró - [Email: varbirog@gmail.com](mailto:varbirog@gmail.com)
 ---
 
 ## How to Cite
-h4("How to Cite"),
-p("If you use this dataset or methodology, please cite our publication:"),
-tags$a(href = "https://doi.org/10.1016/j.watres.2025.123951", 
-       target = "_blank",
-       "https://doi.org/10.1016/j.watres.2025.123951")
+If you use this dataset or methodology, please cite the following publication:
+Borics G., V. Lerf, J. Falucskai, V. B-Béres, T. Kisantal, I. Tóth, E. T-Krasznai, I. Stanković, J. Görgényi, Á. Lukács & G. Várbíró
+Projected area calculation for microalgae using three-dimensional models
+WATER RESEARCH 2025 Paper: 123951 (2025) 
+[https://doi.org/10.1016/j.watres.2025.123951](https://doi.org/10.1016/j.watres.2025.123951)
 
 ## 📁 Directory Structure
 
