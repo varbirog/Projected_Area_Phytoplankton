@@ -203,4 +203,4 @@ for item in obj_list:
 
         fokj += rotation_increment_f
         foki = 0
-    print("A kod lefutott rendben." ) # Maximum dimension of the object
+    print("The full process is fimished." ) # Maximum dimension of the object
