@@ -25,10 +25,11 @@ Gábor Várbíró - [Email: varbirog@gmail.com](mailto:varbirog@gmail.com)
 ---
 
 ## How to Cite
-If you use this dataset or methodology, please cite our : XXXXXXXXXXXXXXXXXX
-DOI : XXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#  File description 
+h4("How to Cite"),
+p("If you use this dataset or methodology, please cite our publication:"),
+tags$a(href = "https://doi.org/10.1016/j.watres.2025.123951", 
+       target = "_blank",
+       "https://doi.org/10.1016/j.watres.2025.123951")
 
 ## 📁 Directory Structure
 
